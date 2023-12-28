@@ -1,5 +1,6 @@
-# java
-#basic calculator
+# java basic calculator
+
+//stating the programm
 import java.util.Scanner;
 
 public class BasicCalculator {
